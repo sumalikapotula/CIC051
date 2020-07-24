@@ -4,3 +4,4 @@
 	Fruits[((counter++))]="Orange"
 	Fruits[((counter++))]="Banana"
 	echo ${!Fruits[@]}
+	echo ${Fruits[@]}
