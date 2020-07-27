@@ -1,6 +1,6 @@
 #! /bin/bash -x
 	counter=0
-	Fruits[((counter++))]="Apple"
+	Fruits[((counter++))]="Apples"
 	Fruits[((counter++))]="Orange"
 	Fruits[((counter++))]="Banana"
 	Fruits[((counter++))]="mango"
